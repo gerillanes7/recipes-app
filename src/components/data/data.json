@@ -1,0 +1,31 @@
+[
+    {
+        "key": 1,
+        "nombre": "Pollo al hinojo",
+        "img": "https://okdiario.com/img/recetas/2017/01/23/pollo-con-hinojo.jpg",
+        "ingredientes": ["2 pollo", "cebolla", "vinagre"],
+        "tags": ["pollo", "pechuga de pollo"]
+    },
+    {
+        "key": 2,
+        "nombre": "Pollo al disco",
+        "img": "https://okdiario.com/img/recetas/2017/01/23/pollo-con-hinojo.jpg",
+        "ingredientes": ["pollo", "morrones"],
+        "tags": ["pollo"]
+    },
+    {
+        "key": 3,
+        "nombre": "sorrentinos",
+        "img": "https://okdiario.com/img/recetas/2017/01/23/pollo-con-hinojo.jpg",
+        "ingredientes": ["salsa", "sorrentinos"],
+        "tags": ["salsa"]
+    },
+    {
+        "key": 4,
+        "nombre": "lomito",
+        "img": "https://okdiario.com/img/recetas/2017/01/23/pollo-con-hinojo.jpg",
+        "ingredientes": ["lomo", "lechuga", "tomate"],
+        "tags": ["lomo"]
+    }
+    
+]

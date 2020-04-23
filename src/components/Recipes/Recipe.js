@@ -32,7 +32,7 @@ const Recipe = (props) => {
                 hoverable>
                 <Meta
                     title={props.recipe.nombre}
-                    description="chiquita de dio"
+                    description="APRETAR VER MAS PARA CONOCER LA RECETA"
                 />
                 <div style={{ float: 'right'}}>
                 

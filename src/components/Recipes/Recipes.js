@@ -11,7 +11,7 @@ const Recipes = (props) => {
             <Row gutter={[8, 8]}>
             {
                     recipes.map(recipe => (
-                        <Col span={6} key={recipe.id}>
+                        <Col span={6} key={recipe.key}>
                             <Recipe recipe={recipe} />
                         </Col>
                     ))

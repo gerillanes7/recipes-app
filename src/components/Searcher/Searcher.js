@@ -27,9 +27,7 @@ const Searcher = () => {
 
     const showRecipes = () => {
         const recipes = data.filter(function (recipe) {
-            return ingredients.every(function (ingredientSearch) {
-                return recipe.tags.includes(ingredientSearch);
-            });
+                return ingredients.some(ingredient => recipe.ingredientes.includes(ingredient));
         });
         setRecipes(recipes); 
     }
